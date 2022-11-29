@@ -16,7 +16,7 @@
  You can check the posts that users have done but in order to comment/post something, you will need to sign up. 
  
   ## Screenshots 
-![image](https://user-images.githubusercontent.com/108497037/203470968-cf16f9a1-0509-4f13-b601-bb0e2a6ecdf0.png)
+![image](https://user-images.githubusercontent.com/108497037/204449043-ea85a33d-948f-4160-ac9a-2861d6f79ab5.png)
 ![image](https://user-images.githubusercontent.com/108497037/204448574-a5326eab-3bb1-419d-9c3e-4fa6fee60d94.png)
 ![image](https://user-images.githubusercontent.com/108497037/204448682-c682f2bd-df83-420b-8d66-d714c11f1f06.png)
 ![image](https://user-images.githubusercontent.com/108497037/204448749-9e03f960-f0c0-46f1-9d0c-2165d332195b.png)
