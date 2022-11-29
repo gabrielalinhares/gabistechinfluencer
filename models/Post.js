@@ -60,9 +60,7 @@ Post.init(
     post_url: {
       type: DataTypes.STRING,
       allowNull: false,
-      validate: {
-        len: [1],
-      },
+     },
     },
     user_id: {
       type: DataTypes.INTEGER,
@@ -71,7 +69,7 @@ Post.init(
         key: "id",
       },
     },
-  },
+  
   {
     sequelize,
     freezeTableName: true,
